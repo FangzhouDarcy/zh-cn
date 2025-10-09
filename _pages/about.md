@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我于香港大学教育学院获得博士学位，导师为林金锡教授与赖春教授；此前曾就读于伦敦大学学院教育学院，获得硕士学位。我的研究方向主要包括技术辅助语言教育与高等教育。
-发表（或录用）期刊论文和会议论文共计 25 篇。其中，SSCI/SCI 一区论文 11 篇，8 篇为中科院一区 TOP。其中 3 篇论文发表于教技声誉居首的期刊Computers & Education（录用率不足 2%），1 篇一作论文入选 ESI 高被引；1 篇北大核心期刊论文（人大复印资料转载）。
+发表（或录用）期刊论文和会议论文共计 25 篇。其中，SSCI/SCI 一区论文 11 篇，8 篇为中科院一区 TOP。其中 3 篇论文发表于教技声誉居首的期刊Computers & Education（录用率不足 4%），1 篇一作论文入选 ESI 高被引；1 篇北大核心期刊论文（人大复印资料转载）。
 在教育学与教育技术领域两大顶级国际会议 AERA Annual Meeting 与 AECT Annual Convention 学术报告 10 场。1 篇一作论文被美国权威媒体《科学美国人（Scientific American）》（隶属Nature）专题报道。
 目前，我已通过南洋理工大学助理教授面试，处于材料终审阶段。
 
@@ -31,8 +31,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Jin, F.`, Pan, Y., Sun, L., and Lin, C.-H (2025). High Heels, compass, spider-Man, or drug?
+Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, 288,
+105248. [中科院一区 TOP; JCR Q1; IF: 13; 被 Scientific American（隶属Nature）报道；ESI 高被引][[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
 
 </div>
 </div>
@@ -40,8 +41,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	Sun, Z., Xu, R., Deng, L. `Jin, F.`, Song, Z., and Lin, C. H. (2023). Beyond coding and counting:
+Exploring teachers’practical knowledge online through epistemic network analysis. Computers &
+Education, 192, 104647. [中科院一区 TOP; JCR Q1; IF: 13]
+[[网页]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647) 
 
 </div>
 </div>
@@ -156,6 +159,7 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
