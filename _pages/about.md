@@ -81,7 +81,6 @@ redirect_from:
 
 # <span class="anchor" id="xm"></span>
 # 🧩 项目经历
-
 ### 外部项目
 
 1. **赋权授能-衔接向上：人工智能支援中小学教师提升多元文化学生中文学习能力**（参与）  
@@ -102,7 +101,6 @@ redirect_from:
    👤 项目主持人：孙众教授；共同主持人：林金锡教授  
 
 ### 内部项目
-
 1. **Technology and Self-regulated Vocabulary Learning**（兼职研究助理）  
    📅 *2021*  
    💰 资助金额：149,884 港币  
@@ -134,6 +132,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
