@@ -44,7 +44,7 @@ redirect_from:
 - Lin, C.-H., Zhou, K., and `"Jin, F."` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1080/10494820.2024.1234567)
 
 - Sun, L., `"Jin, F."`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [SSCI 一区; IF: 2.1] [[网页]](https://doi.org/10.1075/ijal.12345)
----
+
 ### 中文
 
 - 金方舟. (2020). 提供写作支架助力过程指导——以《“突出中心”写作思维训练》为例. *中学语文教学*, 2020(09), 39–42. [北大核心期刊；人大复印资料转载]
@@ -101,8 +101,6 @@ redirect_from:
    🏛️ 资助机构：中国国家自然科学基金  
    👤 项目主持人：孙众教授；共同主持人：林金锡教授  
 
----
-
 ### 内部项目
 
 1. **Technology and Self-regulated Vocabulary Learning**（兼职研究助理）  
@@ -136,6 +134,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
