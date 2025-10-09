@@ -80,7 +80,6 @@ redirect_from:
 -	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
 
 # <span class="anchor" id="xm"></span>
-
 # 🧩 项目经历
 
 ### 外部项目
@@ -137,6 +136,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
