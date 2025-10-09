@@ -28,38 +28,22 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jin, F.`, Pan, Y., Sun, L., and Lin, C.-H (2025). High Heels, compass, spider-Man, or drug?
-Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, 288,
-105248. [中科院一区 TOP; JCR Q1; IF: 13; 被 Scientific American（隶属Nature）报道；ESI 高被引][[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
+-	`Jin, F.`, Pan, Y., Sun, L., and Lin, C.-H (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 Scientific American（隶属Nature）报道；ESI 高被引][[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Sun, Z., Xu, R., Deng, L. `Jin, F.`, Song, Z., and Lin, C. H. (2023). Beyond coding and counting:
-Exploring teachers’practical knowledge online through epistemic network analysis. Computers &
-Education, 192, 104647. [中科院一区 TOP; JCR Q1; IF: 13]
-[[网页]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647) 
+-	Sun, Z., Xu, R., Deng, L. `Jin, F.`, Song, Z., and Lin, C. H. (2023). Beyond coding and counting: Exploring teachers’practical knowledge online through epistemic network analysis. *Computers & Education*, *192*, 104647. [中科院一区 TOP; JCR一区; IF: 13][[网页]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+-	`Jin, F.`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [中科院一区 TOP; JCR一区; IF: 11.6]
 
 </div>
 </div>
 
-
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
+- Jin, F., Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. Computers in Human Behavior, 165, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] 
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
 
 
@@ -159,6 +143,7 @@ Education, 192, 104647. [中科院一区 TOP; JCR Q1; IF: 13]
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
