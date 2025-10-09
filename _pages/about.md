@@ -21,7 +21,7 @@ redirect_from:
 
 发表（或录用）期刊论文和会议论文共计 25 篇。其中，SSCI/SCI 一区论文 11 篇，8 篇为中科院一区 TOP。其中 3 篇论文发表于教技声誉居首的期刊 *Computers & Education*（录用率不足 4%），1 篇一作论文入选 ESI 高被引；1 篇北大核心期刊论文（人大复印资料转载）。
 
-在教育学与教育技术领域两大顶级国际会议 *AERA Annual Meeting* 与 *AECT Annual Convention* 学术报告 10 场。1 篇一作论文被美国权威媒体《科学美国人（Scientific American）》（隶属 Nature）专题报道。目前，我已通过南洋理工大学助理教授面试，处于材料终审阶段。
+在教育学与教育技术领域两大顶级国际会议 *AERA Annual Meeting* 与 *AECT Annual Convention* 学术报告 10 场。1 篇一作论文被美国权威媒体《科学美国人（Scientific American）》（隶属 Nature）专题报道。目前，已通过南洋理工大学助理教授面试，处于材料终审阶段。
 
 <span class='anchor' id='-xl'></span>
 
@@ -102,6 +102,7 @@ redirect_from:
 - *2018*, 全国大学生创业大赛省级铜奖
 - *2017*, 全国大学生文学作品大赛一等奖
 - *2016*, G20 峰会会场优秀志愿者
+
 
 
 
