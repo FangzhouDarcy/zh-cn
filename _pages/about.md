@@ -23,9 +23,9 @@ redirect_from:
 
 在教育学与教育技术领域两大顶级国际会议 *AERA Annual Meeting* 与 *AECT Annual Convention* 学术报告 10 场。1 篇一作论文被美国权威媒体《科学美国人（Scientific American）》（隶属 Nature）专题报道。目前，已通过南洋理工大学助理教授面试，处于材料终审阶段。
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-qklw'></span>
 
-# 📝 论文
+# 📝 期刊论文
 
 ### 英文
 
@@ -48,13 +48,17 @@ redirect_from:
 - Lin, C.-H., Zhou, K., and `"Jin, F."` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1080/10494820.2024.1234567)
 
 - Sun, L., `"Jin, F."`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [SSCI 一区; IF: 2.1] [[网页]](https://doi.org/10.1075/ijal.12345)
-
+---
 ### 中文
 
 - 金方舟. (2020). 提供写作支架助力过程指导——以《“突出中心”写作思维训练》为例. *中学语文教学*, 2020(09), 39–42. [北大核心期刊；人大复印资料转载]
 
 - 金方舟. (2018). 《诗经·卷耳》若干词义考辨. *语文学习*, 2018(07), 43–45.
-# 🏛️ 学术会议
+  
+
+<span class='anchor' id='-hylw'></span>
+  
+# 🏛️ 会议论文
 -	`Jin, F.`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025, October). Knowledge (Co)Construction Among Artificial Intelligence, Novice Teachers, and Experienced Teachers in an Online Professional Learning Community. *AECT Annual Convention*, Las Vegas, Nevada.
 
 -	`Jin, F.`, Lai, C., and Lin, C.-H. (2025, October). Modeling AI-Assisted Writing: How Self-Regulated Learning Influences Writing Outcomes. *AECT Annual Convention*, Las Vegas, Nevada.
@@ -79,12 +83,47 @@ redirect_from:
 
 -	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
 
+<span class='anchor' id='-xm'></span>
+# <span class="anchor" id="xm"></span>
+
+# 🧩 项目经历
+
+### 外部项目
+
+1. **赋权授能-衔接向上：人工智能支援中小学教师提升多元文化学生中文学习能力**（参与）  
+   📅 *2022.9 – 至今*  
+   💰 资助金额：7,432,000 港币  
+   🏛️ 资助机构：港府优质教育基金  
+   👤 项目主持人：林金锡教授  
+
+2. **Digital Storytelling: My Voice, My Vision, My City in COVID-19**（主持）  
+   📅 *2022 – 2023*  
+   💰 资助金额：7,500 港币  
+   🏛️ 资助机构：Hong Kong Hsin Chong – K.N. Godfrey Yeh Education Fund  
+
+3. **基于人工智能的课堂教学交互分析关键技术研究**（参与）  
+   📅 *2020 – 2023*  
+   💰 资助金额：500,000 人民币  
+   🏛️ 资助机构：中国国家自然科学基金  
+   👤 项目主持人：孙众教授；共同主持人：林金锡教授  
+
+---
+
+### 内部项目
+
+1. **Technology and Self-regulated Vocabulary Learning**（兼职研究助理）  
+   📅 *2021*  
+   💰 资助金额：149,884 港币  
+   🏛️ 资助来源：香港大学基础研究种子基金（Seed Fund）  
+   👤 项目主持人：林金锡教授
+
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
-
+  
+ <span class='anchor' id='-ryjx'></span> 
 # 🏆 荣誉奖项
 
 ### 研究生期间
@@ -102,6 +141,7 @@ redirect_from:
 - *2018*, 全国大学生创业大赛省级铜奖
 - *2017*, 全国大学生文学作品大赛一等奖
 - *2016*, G20 峰会会场优秀志愿者
+
 
 
 
