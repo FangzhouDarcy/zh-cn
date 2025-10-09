@@ -29,136 +29,55 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
 - `Jin, F.`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 Scientific American（隶属Nature）报道；ESI 高被引] [[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
 - Sun, Z., Xu, R., Deng, L., `Jin, F.`, Song, Z., and Lin, C.-H. (2023). Beyond coding and counting: Exploring teachers’ practical knowledge online through epistemic network analysis. *Computers & Education*, *192*, 104647. [中科院一区 TOP; JCR一区; IF: 13] [[网页]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647)
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
 - `Jin, F.`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [中科院一区 TOP; JCR一区; IF: 11.6]
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
 - `Jin, F.`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
 - `Jin, F.`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [中科院一区 TOP; SSCI 一区; IF: 7.2] [[网页]](https://doi.org/10.1111/bjet.13452)
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
 - `Jin, F.`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025). Knowledge (co-)construction among artificial intelligence, novice and experienced Teachers in an online professional learning community. *Journal of Computer Assisted Learning*, *41*(2), 1–21. [中科院一区 TOP; SSCI 一区；IF: 5.4] [[网页]](https://doi.org/10.1111/jcal.12954)
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
 - Zhou, K., `Jin, F.`, Li, W., Song, Z., and Lin, C.-H. (2024). The Design of technology-enhanced vocabulary learning: A systematic review. *Education and Information Technologies*, *29*, 1–23. [SSCI 一区; IF: 4.8] [[网页]](https://doi.org/10.1007/s10639-024-12345-6)
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
 - Song, Z., Qin, J., `Jin, F.`, and Lin, C.-H. (2025). Insights into teachers’ generative artificial intelligence integration: A case study based on teachers’ GenAI integration processes and influencing factors. *Teaching and Teacher Education*. [中科院一区 TOP; SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1016/j.tate.2025.104567)
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
 - Lin, C.-H., Zhou, K., and `Jin, F.` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1080/10494820.2024.1234567)
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
 - Sun, L., `Jin, F.`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [SSCI 一区; IF: 2.1] [[网页]](https://doi.org/10.1075/ijal.12345)
-
-</div>
-</div>
-
 
 # 🏛️ 学术会议
 -	`Jin, F.`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025, October). Knowledge (Co)Construction Among Artificial Intelligence, Novice Teachers, and Experienced Teachers in an Online Professional Learning Community. *AECT Annual Convention*, Las Vegas, Nevada.
 
-</div>
-</div>
 -	`Jin, F.`, Lai, C., and Lin, C.-H. (2025, October). Modeling AI-Assisted Writing: How Self-Regulated Learning Influences Writing Outcomes. *AECT Annual Convention*, Las Vegas, Nevada.
 
-</div>
-</div>
 -	`Jin, F.`, and Lin, C.-H. (2025, October). Reducing cognitive load, but limiting novelty and diversity: Exploring generative AI’s role in writing through visualization of the cognitive process. *AECT Annual Convention*, Las Vegas, Nevada.
 
-</div>
-</div>
 -	`Jin, F.`, and Lin, C.-H. (2025, April). Exploring the effect of GenAI on students’ writing and visualizing the writing process through HRV. *AERA Annual Meeting*, Denver, Colorado.
 
-</div>
-</div>
 -	`Jin, F.`, and Lin, C.-H. (2025, April). High Heels, compass, Spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *AERA Annual Meeting*, Denver, Colorado.
 
 </div>
 </div>
 -	`Jin, F.`, Song, Z., Sun, L., and Lin, C.-H. (2024, April). The AI assistant in teacher online professional learning communities: What matters most and how? *AERA Annual Meeting*, Philadelphia, Pennsylvania.
 
-</div>
-</div>
 -	`Jin, F.`, Song, Z., Cheung, W. M., and Lin, C.-H. (2023, April). Affordances of Technology in Online Teacher Professional Learning Communities: A Systematic Review. *AERA Annual Meeting*, Chicago, Illinois.
 
-</div>
-</div>
 -	Sun, L., `Jin, F.`, Lin, C.-H., and Cheung, W. M. (2024, April). From clueless to confident: How ChatGPT can transform L2 academic writing. *AERA Annual Meeting*, Philadelphia, Pennsylvania.
 
-</div>
-</div>
 -	Song, Z., `Jin, F.`, Lin, C.-H., and Cheung, W. M. (2024, April). Unveiling the Pathways to Informal Learning: A Mixed-method Investigation into Motivation and Attitudes of Teachers. *AERA Annual Meeting*, Philadelphia, Pennsylvania.
 
-</div>
-</div>
 -	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2022, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *AERA Annual Meeting*, San Diego, California.
 
-</div>
-</div>
 -	Song, Z., and `Jin, F.` (2021, December). Explore the next generation mobile learning environment for classical Chinese vocabulary: A survey study of mobile apps. *International Conference on Learning and Teaching (ICLT2021)*, Online.
 
-</div>
-</div>
 -	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
 
-</div>
-</div>
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -182,6 +101,7 @@ redirect_from:
 - *2018*, 全国大学生创业大赛省级铜奖
 - *2017*, 全国大学生文学作品大赛一等奖
 - *2016*, G20 峰会会场优秀志愿者
+
 
 
 
