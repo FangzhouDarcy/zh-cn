@@ -17,29 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我香港大学教育学院获得博士学位，导师是林金锡教授和赖春教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
-
+我于香港大学教育学院获得博士学位，导师为林金锡教授与赖春教授；此前曾就读于伦敦大学学院教育学院，获得硕士学位。我的研究方向主要包括技术辅助语言教育与高等教育。
+发表（或录用）期刊论文和会议论文共计 25 篇。其中，SSCI/SCI 一区论文 11 篇，8 篇为中科院一区 TOP。其中 3 篇论文发表于教技声誉居首的期刊Computers & Education（录用率不足 2%），1 篇一作论文入选 ESI 高被引；1 篇北大核心期刊论文（人大复印资料转载）。
+在教育学与教育技术领域两大顶级国际会议 AERA Annual Meeting 与 AECT Annual Convention 学术报告 10 场。1 篇一作论文被美国权威媒体《科学美国人（Scientific American）》（隶属Nature）专题报道。
+目前，我已通过南洋理工大学助理教授面试，处于材料终审阶段。
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
- 
-<span class='anchor' id='-lwzl'></span>
-
-# 📝 论文专利
+# 📝 论文
 
 ### 英文
 ---
@@ -171,5 +156,6 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
