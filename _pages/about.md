@@ -88,20 +88,21 @@ redirect_from:
 # 🏆 荣誉奖项
 
 ### 研究生期间
-- *2025*, 香港大学学术出版优秀奖 HKU Foundation Publication Award [全院 1 名]
-- *2024*, 香港大学卓越博士新生奖 HKU Foundation First Year Excellent PhD Award [学院提名 2 人]
-- *2024*, 香港大学研究生出版奖 Research Postgraduate Student Publication Award [全院 5 名]
-- *2021*, 香港大学研究生荣誉奖学金 HKU Foundation University Postgraduate Fellowship [全院 6 名]
-- *2021*, 香港大学院长名单 HKU Dean’s List
-- *2023*, 香港大学教育学院学生代表 Student Coordinator
-- *2022 – 2024*, 香港大学日新学院摄影队负责人 Person In Charge
-- *2022*, 香港筹款义工 Flag Day Volunteer in Hong Kong Island District
+- *2025*, 香港大学学术出版优秀奖 [全院 1 名]
+- *2024*, 香港大学卓越博士新生奖 [学院提名 2 人]
+- *2024*, 香港大学研究生出版奖 [全院 5 名]
+- *2021*, 香港大学研究生荣誉奖学金 [全院 6 名]
+- *2021*, 香港大学院长名单 
+- *2023*, 香港大学教育学院学生代表 
+- *2022 – 2024*, 香港大学日新学院摄影队负责人 
+- *2022*, 香港筹款义工 
 
 ###  本科期间
 - *2018*, 浙江省政府奖学金
 - *2018*, 全国大学生创业大赛省级铜奖
 - *2017*, 全国大学生文学作品大赛一等奖
 - *2016*, G20 峰会会场优秀志愿者
+
 
 
 
