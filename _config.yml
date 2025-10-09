@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "金方舟"
-  avatar           : "主页个人照片.png"
+  avatar           : "images/主页个人照片.png"
   bio              : "香港大学"
   location         : "中国 香港"
   employer         : #"Hefei General Machinery Research Institute"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
