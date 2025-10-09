@@ -27,8 +27,6 @@ redirect_from:
 
 # 📝 论文
 
-### 英文
----
 - `Jin, F.`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 Scientific American（隶属Nature）报道；ESI 高被引] [[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
 
 - Sun, Z., Xu, R., Deng, L., `Jin, F.`, Song, Z., and Lin, C.-H. (2023). Beyond coding and counting: Exploring teachers’ practical knowledge online through epistemic network analysis. *Computers & Education*, *192*, 104647. [中科院一区 TOP; JCR一区; IF: 13] [[网页]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647)
@@ -51,6 +49,10 @@ redirect_from:
 
 - Sun, L., `Jin, F.`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [SSCI 一区; IF: 2.1] [[网页]](https://doi.org/10.1075/ijal.12345)
 
+- 金方舟. 提供写作支架助力过程指导——以《“突出中心”写作思维训练》为例 [J]. 中学语文教学, 2020(09):39-42. [北大核心期刊]
+  
+- 金方舟.《诗经·卷耳》若干词义考辨 [J]. 语文学习, 2018,(7):43-45.
+
 # 🏛️ 学术会议
 -	`Jin, F.`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025, October). Knowledge (Co)Construction Among Artificial Intelligence, Novice Teachers, and Experienced Teachers in an Online Professional Learning Community. *AECT Annual Convention*, Las Vegas, Nevada.
 
@@ -62,8 +64,6 @@ redirect_from:
 
 -	`Jin, F.`, and Lin, C.-H. (2025, April). High Heels, compass, Spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *AERA Annual Meeting*, Denver, Colorado.
 
-</div>
-</div>
 -	`Jin, F.`, Song, Z., Sun, L., and Lin, C.-H. (2024, April). The AI assistant in teacher online professional learning communities: What matters most and how? *AERA Annual Meeting*, Philadelphia, Pennsylvania.
 
 -	`Jin, F.`, Song, Z., Cheung, W. M., and Lin, C.-H. (2023, April). Affordances of Technology in Online Teacher Professional Learning Communities: A Systematic Review. *AERA Annual Meeting*, Chicago, Illinois.
@@ -101,6 +101,7 @@ redirect_from:
 - *2018*, 全国大学生创业大赛省级铜奖
 - *2017*, 全国大学生文学作品大赛一等奖
 - *2016*, G20 峰会会场优秀志愿者
+
 
 
 
