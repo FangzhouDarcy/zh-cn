@@ -48,6 +48,7 @@ redirect_from:
 
 </div>
 </div>
+
 -	`Jin, F.`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [中科院一区 TOP; SSCI 一区; IF: 7.2] [[网页]](https://doi.org/10.1111/bjet.13452)
 
 </div>
@@ -156,6 +157,7 @@ redirect_from:
 - *2018*, 全国大学生创业大赛省级铜奖
 - *2017*, 全国大学生文学作品大赛一等奖
 - *2016*, G20 峰会会场优秀志愿者
+
 
 
 
