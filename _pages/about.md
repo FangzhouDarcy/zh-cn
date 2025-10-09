@@ -31,7 +31,7 @@ redirect_from:
 
 - `"Jin, F."`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [中科院一区 TOP; JCR一区; IF: 11.6]
 
-- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] [[网页]](https://dx.doi.org/10.3390/ma15207362)
 
 - `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [中科院一区 TOP; SSCI 一区; IF: 7.2] [[网页]](https://doi.org/10.1111/bjet.13452)
 
@@ -134,6 +134,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
