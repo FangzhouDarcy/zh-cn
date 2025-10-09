@@ -89,12 +89,13 @@ redirect_from:
    🏛️ 资助机构：港府优质教育基金  
    👤 项目主持人：林金锡教授  
 
-2. **Digital Storytelling: My Voice, My Vision, My City in COVID-19**（主持）  
+2. **Digital Storytelling: My Voice, My Vision, My City in COVID-19**（共同主持）  
    📅 *2022 – 2023*  
    💰 资助金额：7,500 港币  
-   🏛️ 资助机构：Hong Kong Hsin Chong – K.N. Godfrey Yeh Education Fund  
+   🏛️ 资助机构：Hong Kong Hsin Chong – K.N. Godfrey Yeh Education Fund
+   👤 项目主持人：刘光祥
 
-3. **基于人工智能的课堂教学交互分析关键技术研究**（参与）  
+4. **基于人工智能的课堂教学交互分析关键技术研究**（参与）  
    📅 *2020 – 2023*  
    💰 资助金额：500,000 人民币  
    🏛️ 资助机构：中国国家自然科学基金  
@@ -132,6 +133,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
