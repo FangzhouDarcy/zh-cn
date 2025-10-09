@@ -43,87 +43,45 @@ redirect_from:
 </div>
 </div>
 
-- Jin, F., Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. Computers in Human Behavior, 165, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] 
+- `Jin, F.`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. Computers in Human Behavior, 165, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] 
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
 
+</div>
+</div>
+-	`Jin, F.`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [中科院一区 TOP; SSCI 一区; IF: 7.2] [[网页]](https://doi.org/10.1111/bjet.13452)
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+</div>
+</div>
+-	`Jin, F.`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025). Knowledge (co-)construction among artificial intelligence, novice and experienced Teachers in an online professional learning community. *Journal of Computer Assisted Learning*, *41*(2), 1–21. [中科院一区 TOP; SSCI 一区；IF: 5.4] [[网页]](https://doi.org/10.1111/jcal.12954)
 
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
+</div>
+</div>
+-	Zhou, K., `Jin, F.`, Li, W., Song, Z., and Lin, C.-H. (2024). The Design of technology-enhanced vocabulary learning: A systematic review. *Education and Information Technologies*, *29*, 1–23. [SSCI 一区; IF: 4.8] [[网页]](https://doi.org/10.1007/s10639-024-12345-6)
 
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+</div>
+</div>
+-	Song, Z., Qin, J., `Jin, F.`, and Lin, C.-H. (2025). Insights into teachers’ generative artificial intelligence integration: A case study based on teachers’ GenAI integration processes and influencing factors. *Teaching and Teacher Education*. [中科院一区 TOP; SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1016/j.tate.2025.104567)
 
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
+</div>
+</div>
+-	Lin, C.-H., Zhou, K., and `Jin, F.` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1080/10494820.2024.1234567)
 
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209357) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
+</div>
+</div>
+-	Sun, L., `Jin, F.`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [SSCI 一区; IF: 2.1] [[网页]](https://doi.org/10.1075/ijal.12345)
 
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[网页]](https://dx.doi.org/10.3233/SAEM190009) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[网页]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[下载]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[下载]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
+</div>
+</div>
 ### 中文
 ---
+-	金方舟 (2020). 提供写作支架助力过程指导——以《“突出中心”写作思维训练》为例. *中学语文教学*, 2020(09), 39–42. [北大核心期刊；人大复印资料转载]
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+</div>
+</div>
+-	金方舟 (2018). 《诗经·卷耳》若干词义考辨. *语文学习*, 2018(07), 43–45.
 
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-- 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-- 	邓永乐, 王荣彪, `唐健`, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10. (EI期刊)  
-[[网页]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[下载]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
-
-
-- 	王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, `唐健`. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6. (EI期刊)  
-[[网页]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	刘伯承, 段兆祺, 姜春, `唐健`, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5. (核心期刊)   
-[[网页]](https://dx.doi.org/10.11973/wsjc202211001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-- 	刘伯承, `唐健`, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
-- 	孟杰, 李二龙, `唐健`, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-
-- 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-### 专利
----
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-
-
-
-
-
-
-
-<span class='anchor' id='-ryjx'></span>
+</div>
+</div>
 
 # 🏅 荣誉奖项
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
@@ -133,16 +91,79 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+-	`Jin, F.`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025, October). Knowledge (Co)Construction Among Artificial Intelligence, Novice Teachers, and Experienced Teachers in an Online Professional Learning Community. *AECT Annual Convention*, Las Vegas, Nevada.
+
+</div>
+</div>
+-	`Jin, F.`, Lai, C., and Lin, C.-H. (2025, October). Modeling AI-Assisted Writing: How Self-Regulated Learning Influences Writing Outcomes. *AECT Annual Convention*, Las Vegas, Nevada.
+
+</div>
+</div>
+-	`Jin, F.`, and Lin, C.-H. (2025, October). Reducing cognitive load, but limiting novelty and diversity: Exploring generative AI’s role in writing through visualization of the cognitive process. *AECT Annual Convention*, Las Vegas, Nevada.
+
+</div>
+</div>
+-	`Jin, F.`, and Lin, C.-H. (2025, April). Exploring the effect of GenAI on students’ writing and visualizing the writing process through HRV. *AERA Annual Meeting*, Denver, Colorado.
+
+</div>
+</div>
+-	`Jin, F.`, and Lin, C.-H. (2025, April). High Heels, compass, Spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *AERA Annual Meeting*, Denver, Colorado.
+
+</div>
+</div>
+-	`Jin, F.`, Song, Z., Sun, L., and Lin, C.-H. (2024, April). The AI assistant in teacher online professional learning communities: What matters most and how? *AERA Annual Meeting*, Philadelphia, Pennsylvania.
+
+</div>
+</div>
+-	`Jin, F.`, Song, Z., Cheung, W. M., and Lin, C.-H. (2023, April). Affordances of Technology in Online Teacher Professional Learning Communities: A Systematic Review. *AERA Annual Meeting*, Chicago, Illinois.
+
+</div>
+</div>
+-	Sun, L., `Jin, F.`, Lin, C.-H., and Cheung, W. M. (2024, April). From clueless to confident: How ChatGPT can transform L2 academic writing. *AERA Annual Meeting*, Philadelphia, Pennsylvania.
+
+</div>
+</div>
+-	Song, Z., `Jin, F.`, Lin, C.-H., and Cheung, W. M. (2024, April). Unveiling the Pathways to Informal Learning: A Mixed-method Investigation into Motivation and Attitudes of Teachers. *AERA Annual Meeting*, Philadelphia, Pennsylvania.
+
+</div>
+</div>
+-	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2022, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *AERA Annual Meeting*, San Diego, California.
+
+</div>
+</div>
+-	Song, Z., and `Jin, F.` (2021, December). Explore the next generation mobile learning environment for classical Chinese vocabulary: A survey study of mobile apps. *International Conference on Learning and Teaching (ICLT2021)*, Online.
+
+</div>
+</div>
+-	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
+
+</div>
+</div>
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
+# 🏆 荣誉奖项
+
+### 研究生期间
+- *2025*, 香港大学学术出版优秀奖 HKU Foundation Publication Award [全院 1 名]
+- *2024*, 香港大学卓越博士新生奖 HKU Foundation First Year Excellent PhD Award [学院提名 2 人]
+- *2024*, 香港大学研究生出版奖 Research Postgraduate Student Publication Award [全院 5 名]
+- *2021*, 香港大学研究生荣誉奖学金 HKU Foundation University Postgraduate Fellowship [全院 6 名]
+- *2021*, 香港大学院长名单 HKU Dean’s List
+- *2023*, 香港大学教育学院学生代表 Student Coordinator
+- *2022 – 2024*, 香港大学日新学院摄影队负责人 Person In Charge
+- *2022*, 香港筹款义工 Flag Day Volunteer in Hong Kong Island District
+
+###  本科期间
+- *2019*, 浙江师范大学校长特别奖
+- *2018*, 浙江省政府奖学金
+- *2018*, 全国大学生创业大赛省级铜奖
+- *2017*, 全国大学生文学作品大赛一等奖
+- *2016*, G20 峰会会场优秀志愿者
+
 
 
 
