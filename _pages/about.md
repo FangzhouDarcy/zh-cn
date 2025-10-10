@@ -27,7 +27,7 @@ redirect_from:
 
 ### 英文
 
-- `"Jin, F."`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 Scientific American（隶属Nature）报道；ESI 高被引] [[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
+- `"Jin, F."`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 *Scientific American*（隶属*Nature*）报道；ESI 高被引] [[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
 
 - Sun, Z., Xu, R., Deng, L., `"Jin, F."`, Song, Z., and Lin, C.-H. (2023). Beyond coding and counting: Exploring teachers’ practical knowledge online through epistemic network analysis. *Computers & Education*, *192*, 104647. [中科院一区 TOP; JCR一区; IF: 13] [[网页]](https://doi.org/10.1016/j.compedu.2022.104647)
 
@@ -142,6 +142,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
