@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LNhiTkwAAAAJ&hl=en"
   email            : "jin0507@connect.hku.hk"
-  researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
+  researchgate     : "https://www.researchgate.net/profile/Jin_Fangzhou"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"tangjyan"
+  github           : "https://github.com/FangzhouDarcy"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : #"https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0000-0002-1386-361X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
