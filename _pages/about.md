@@ -79,7 +79,7 @@ redirect_from:
 
 -	Song, Z., and `Jin, F.` (2021, December). Explore the next generation mobile learning environment for classical Chinese vocabulary: A survey study of mobile apps. *International Conference on Learning and Teaching (ICLT2021)*, Online.
 
--	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
+-	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT & CoLLT 2021*, Hong Kong.
 
 <span class='anchor' id='-grzz'></span>
 
@@ -142,6 +142,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
