@@ -8,13 +8,17 @@ main:
 
   - title: "会议论文"
     url: "/zh-cn/#-hylw"
+
+  - title: "个人专著"
+    url: "/zh-cn/#-grzz"
     
   - title: "项目"
     url: "/zh-cn/#-xm"
 
-  - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+  - title: "荣誉奖项与活动"
+    url: "/zh-cn/#-ryjxyhd"
 
   - title: "工作实习"
     url: "/zh-cn/#-gzsx"
+
 
