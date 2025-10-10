@@ -33,19 +33,19 @@ redirect_from:
 
 - `"Jin, F."`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [中科院一区 TOP; JCR一区; IF: 13]
 
-- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] [[网页]](https://doi.org/10.1016/j.chb.2024.108538)
+- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; JCR一区；IF: 9.5] [[网页]](https://doi.org/10.1016/j.chb.2024.108538)
 
 - `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. 
 
-- `"Jin, F."`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025). Knowledge (co-)construction among artificial intelligence, novice and experienced Teachers in an online professional learning community. *Journal of Computer Assisted Learning*, *41*(2), 1–21. [中科院一区 TOP; SSCI 一区；IF: 5.4] [[网页]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.70004)
+- `"Jin, F."`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025). Knowledge (co-)construction among artificial intelligence, novice and experienced Teachers in an online professional learning community. *Journal of Computer Assisted Learning*, *41*(2), 1–21. [中科院一区 TOP; JCR一区；IF: 5.4] [[网页]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.70004)
 
-- Zhou, K., `"Jin, F."`, Li, W., Song, Z., and Lin, C.-H. (2024). The Design of technology-enhanced vocabulary learning: A systematic review. *Education and Information Technologies*, *29*, 1–23. [SSCI 一区; IF: 4.8] [[网页]](https://doi.org/10.1007/s10639-023-12423-y)
+- Zhou, K., `"Jin, F."`, Li, W., Song, Z., and Lin, C.-H. (2024). The Design of technology-enhanced vocabulary learning: A systematic review. *Education and Information Technologies*, *29*, 1–23. [JCR一区; IF: 4.8] [[网页]](https://doi.org/10.1007/s10639-023-12423-y)
 
-- Song, Z., Qin, J., `"Jin, F."`, and Lin, C.-H. (2025).  A case study of teachers’ generative artificial intelligence integration processes and factors influencing them. . *Teaching and Teacher Education*. *165*, 105157 [中科院一区 TOP; SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1016/j.tate.2025.104567)
+- Song, Z., Qin, J., `"Jin, F."`, and Lin, C.-H. (2025).  A case study of teachers’ generative artificial intelligence integration processes and factors influencing them. . *Teaching and Teacher Education*. *165*, 105157 [中科院一区 TOP; JCR一区; IF: 4.5] [[网页]](https://doi.org/10.1016/j.tate.2025.104567)
 
-- Lin, C.-H., Zhou, K., and `"Jin, F."` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [SSCI 一区; IF: 4.5] [[网页]](https://doi-org.eproxy.lib.hku.hk/10.1080/10494820.2024.2324333)
+- Lin, C.-H., Zhou, K., and `"Jin, F."` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [JCR一区; IF: 4.5] [[网页]](https://doi-org.eproxy.lib.hku.hk/10.1080/10494820.2024.2324333)
 
-- Sun, L., `"Jin, F."`, Zhou, K., Lin, C.-H., and Cheung, W. M. (2025). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [SSCI 一区; IF: 2.1] [[网页]](https://doi-org.eproxy.lib.hku.hk/10.1111/ijal.12849)
+- Sun, L., `"Jin, F."`, Zhou, K., Lin, C.-H., and Cheung, W. M. (2025). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [JCR一区; IF: 2.1] [[网页]](https://doi-org.eproxy.lib.hku.hk/10.1111/ijal.12849)
 
 ### 中文
 
@@ -142,6 +142,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
