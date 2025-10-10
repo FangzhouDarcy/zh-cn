@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/FangzhouDarcy"
+  github           : https://github.com/FangzhouDarcy
   google_plus      :
   keybase          :
   instagram        :
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
