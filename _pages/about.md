@@ -33,7 +33,7 @@ redirect_from:
 
 - `"Jin, F."`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [中科院一区 TOP; JCR一区; IF: 13]
 
-- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; JCR一区；IF: 9.5] [[网页]](https://doi.org/10.1016/j.chb.2024.108538)
+- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; JCR一区；IF: 10.6] [[网页]](https://doi.org/10.1016/j.chb.2024.108538)
 
 - `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. 
 
@@ -111,10 +111,10 @@ redirect_from:
    👤 项目主持人：孙众教授；共同主持人：林金锡教授  
 
 ### 内部项目
-1. **Technology and Self-regulated Vocabulary Learning**（兼职研究助理）  
+1. **科技和自主词汇学习**（兼职研究助理）  
    📅 *2021*  
    💰 资助金额：149,884 港币  
-   🏛️ 资助来源：香港大学基础研究种子基金（Seed Fund）  
+   🏛️ 资助来源：香港大学基础研究种子基金 
    👤 项目主持人：林金锡教授
 
 
@@ -142,6 +142,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
