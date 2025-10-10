@@ -81,6 +81,13 @@ redirect_from:
 
 -	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
 
+<span class='anchor' id='-grzz'></span>
+
+# 📚 个人专著
+
+1. **金方舟.** (2018). 《泰戈尔诗选》解读. *浙江文艺出版社*.
+2. **金方舟.** (2015). 《逆流而上的时光》. *浙江教育出版社*.
+
 <span class="anchor" id="xm"></span>
 # 🧩 项目经历
 ### 外部项目
@@ -111,8 +118,8 @@ redirect_from:
    👤 项目主持人：林金锡教授
 
   
- <span class='anchor' id='-ryjx'></span> 
-# 🏆 荣誉奖项
+ <span class='anchor' id='-ryjxyhd'></span> 
+# 🏆 荣誉奖项与活动
 
 ### 研究生期间
 - *2025*, 香港大学学术出版优秀奖 [全院 1 名]
@@ -135,6 +142,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
