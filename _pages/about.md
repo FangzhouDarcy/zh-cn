@@ -35,9 +35,9 @@ redirect_from:
 
 - `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; JCR一区；IF: 10.6] [[网页]](https://doi.org/10.1016/j.chb.2024.108538)
 
-- Jin, F., Song, Z., Cheung, W. M., Lin, C.-H., and Liu, T. (2023). Technological affordances in
+- `"Jin, F."`, Song, Z., Cheung, W. M., Lin, C.-H., and Liu, T. (2023). Technological affordances in
 teachers’ online professional learning communities: A systematic review. Journal of Computer
-Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4]
+Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网页]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.12935)
 
 - `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. 
 
@@ -146,6 +146,7 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4]
 
 # 💻 工作实习
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
+
 
 
 
