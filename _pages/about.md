@@ -153,11 +153,11 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
 - *2019.10 – 2020.6*, 英国汉普顿皇家学校, 伦敦
 
 <span class='anchor' id='-wxxz'></span>
-<span class='anchor' id='-wxxz'></span>
 
 # ✍️ 文学习作
 1. [《我的妻子在宇宙》](https://mp.weixin.qq.com/s/lTLfh03gL_JAkx8Q1zaKMA)
 2. [《与小偷擦肩而过》](https://mp.weixin.qq.com/s/QtevQ8Efp9T0tHpDuQQcMg) 
+
 
 
 
