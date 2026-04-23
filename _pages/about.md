@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我于2025年8月在香港大学教育学院获得博士学位，师从林金锡教授与赖春教授；于伦敦大学学院教育学院获得硕士学位。研究方向主要包括技术辅助语言教育与高等教育。
-目前，我发表（或录用）期刊论文和会议论文共计 25 篇。其中，SSCI/SCI 一区论文 11 篇，8 篇为中科院一区 TOP。其中 3 篇论文发表于教技声誉居首的期刊 *Computers & Education*（录用率不足 4%），1 篇一作论文入选 ESI 高被引；1 篇北大核心期刊论文（人大复印资料转载）。
-我在教育学与教育技术领域两大顶级国际会议 *AERA Annual Meeting* 与 *AECT Annual Convention* 学术报告 10 场。2 篇一作论文被美国权威媒体《科学美国人（*Scientific American*）》（隶属*Nature*）专题报道。
+目前，我发表（或录用）期刊论文和会议论文共计 25 篇。其中，SSCI/SCI 一区论文 11 篇，8 篇为中科院一区 TOP。其中 3 篇论文发表于教技声誉居首的期刊 *Computers & Education*（录用率不足 4%），3 篇一作论文入选 ESI 高被引；1 篇北大核心期刊论文（人大复印资料转载）。
+我在教育学与教育技术领域两大顶级国际会议 *AERA Annual Meeting* 与 *AECT Annual Convention* 学术报告 10 场。一作论文被美国权威媒体《科学美国人（*Scientific American*）》（隶属*Nature*）专题报道。
 
 <span class='anchor' id='-qklw'></span>
 
