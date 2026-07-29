@@ -22,7 +22,7 @@ redirect_from:
 我于伦敦大学学院（University College London）和香港大学（The University of Hong Kong）获得硕士学位（以一等学位毕业），获香港大学博士（Ph.D.）学位。博士毕业后，曾于香港大学担任香港特别行政区政府资助的新晋学者（Junior Research Fellow Scheme, JRFS）。
 
 研究方向主要包括技术辅助语言教育（Technology-enhanced Language Learning）、人工智能教育（AI in Education）等。
-截至目前，已发表期刊论文和国际会议论文20余篇。相关成果发表于Computers & Education、Computers in Human Behavior、Journal of Computer Assisted Learning等中科院一区TOP期刊，和ACL Main Conference、AERA Annual Meeting、AECT International Convention等国际顶级学术会议。
+截至目前，已发表期刊论文和国际会议论文20余篇。相关成果发表于*Computers & Education*、*Computers in Human Behavior*、*Journal of Computer Assisted Learning*等中科院一区TOP期刊，和ACL Main Conference、AERA Annual Meeting、AECT International Convention等国际顶级学术会议。
 
 主持或参与多项科研项目。曾获香港特别行政区政府研究资助局新晋学者计划（JRFS）资助，全港所有学校所有学科仅30人入选，获百万港币资助。获资助项目为 Multimodal AI in Language Education: Usage, Model Optimization, and Experiments（项目编号：UGC/GEN/612）。此外，参与教育部《人工智能教育伦理：参考框架》《人工智能通识教育白皮书》等文件的编写，并参与推进教育部未来教师公益计划。
 
@@ -36,7 +36,7 @@ redirect_from:
 # 📝 期刊论文
 
 ### 英文
-- `"Jin, F."`, Lin, C. H., & Lai, C. (2026). Profiles of ESL Postgraduate Students’ Use of Artificial Intelligence in Writing: Antecedents and Outcomes. *Computers & Education*, *253*, 105689. [中科院一区 TOP; JCR一区; IF: 13]
+- `"Jin, F."`, Lin, C. H., & Lai, C. (2026). Profiles of ESL Postgraduate Students’ Use of Artificial Intelligence in Writing: Antecedents and Outcomes. *Computers & Education*, *253*, 105689. [中科院一区 TOP; JCR一区; IF: 13][[网页]](https://doi.org/10.1016/j.compedu.2026.105689)
 
 - `"Jin, F."`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 *Scientific American*报道；ESI 高被引] [[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
 
@@ -45,8 +45,8 @@ redirect_from:
 - `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; JCR一区；IF: 10.6] [[网页]](https://doi.org/10.1016/j.chb.2024.108538)
 
 - `"Jin, F."`, Song, Z., Cheung, W. M., Lin, C.-H., and Liu, T. (2023). Technological affordances in
-teachers’ online professional learning communities: A systematic review. Journal of Computer
-Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网页]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.12935)
+teachers’ online professional learning communities: A systematic review. *Journal of Computer
+Assisted Learning*, *40*(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网页]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.12935)
 
 - `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. 
 
