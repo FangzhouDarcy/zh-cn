@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我于2025年8月在香港大学教育学院获得博士学位，师从林金锡教授与赖春教授；于伦敦大学学院教育学院获得硕士学位。研究方向主要包括技术辅助语言教育与高等教育。
-目前，我发表（或录用）期刊论文和会议论文共计 25 篇。其中，SSCI/SCI 一区论文 11 篇，8 篇为中科院一区 TOP。其中 3 篇论文发表于教技声誉居首的期刊 *Computers & Education*（录用率不足 4%），3 篇一作论文入选 ESI 高被引；1 篇北大核心期刊论文（人大复印资料转载）。
-我在教育学与教育技术领域两大顶级国际会议 *AERA Annual Meeting* 与 *AECT Annual Convention* 学术报告 10 场。一作论文被美国权威媒体《科学美国人（*Scientific American*）》（隶属*Nature*）专题报道。
+金方舟，浙江大学教育学院"新百人计划"研究员、博士生导师。
+金方舟于伦敦大学学院（University College London）和香港大学（The University of Hong Kong）获得硕士学位（以一等学位毕业），于2025年8月获香港大学哲学博士（Ph.D.）学位。博士毕业后，曾于香港大学担任香港特别行政区政府资助的新晋学者（Junior Research Fellow Scheme, JRFS）。
+研究方向主要包括技术辅助语言教育（Technology-enhanced Language Learning）、人工智能教育（AI in Education）等。
+截至目前，已发表期刊论文和国际会议论文20余篇。相关成果发表于Computers & Education、Computers in Human Behavior、Journal of Computer Assisted Learning等中科院一区TOP期刊，和ACL Main Conference、AERA Annual Meeting、AECT International Convention等国际顶级学术会议。
+主持或参与多项科研项目。曾获香港特别行政区政府研究资助局新晋学者计划（JRFS）资助，全港所有学校所有学科仅30人入选，获百万港币资助。获资助项目为 Multimodal AI in Language Education: Usage, Model Optimization, and Experiments（项目编号：UGC/GEN/612）。此外，还参与教育部《人工智能教育伦理参考框架》《人工智能通识教育白皮书》等文件的编写，并参与推进教育部未来教师公益计划。
+研究成果具有较高的国际学术影响力。其中，一篇第一作者论文获美国权威科普媒体Scientific American（《科学美国人》）专题报道；共有4篇第一作者论文入选ESI高被引论文（Highly Cited Papers）。
+曾获香港大学校级奖学金HKU Foundation Postgraduate Fellowships、香港大学论文发表奖等多项荣誉。现担任多本SSCI一区国际期刊审稿人。
 
 <span class='anchor' id='-qklw'></span>
 
 # 📝 期刊论文
 
 ### 英文
+- `"Jin, F."`, Lin, C. H., & Lai, C. (2026). Profiles of ESL Postgraduate Students’ Use of Artificial Intelligence in Writing: Antecedents and Outcomes. Computers & Education, *253*, 105689. [中科院一区 TOP; JCR一区; IF: 13]
 
 - `"Jin, F."`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 *Scientific American*（隶属*Nature*）报道；ESI 高被引] [[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
 
@@ -61,6 +66,10 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
 <span class='anchor' id='-hylw'></span>
   
 # 🏛️ 会议论文
+- `Jin, F.`, Lai, C., Lin, C.-H. (2026, April). Profiles of postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *AERA Annual Meeting*, Los Angeles, California. 
+
+- `Jin, F.`, Deng, H., Yang, Z., Sun, Z., Lin, C.-H. (2026, April). Measuring teachers’ generative AI use: Scale development and validation. *AERA Annual Meeting*, Los Angeles, California. 
+
 -	`Jin, F.`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025, October). Knowledge (Co)Construction Among Artificial Intelligence, Novice Teachers, and Experienced Teachers in an Online Professional Learning Community. *AECT Annual Convention*, Las Vegas, Nevada.
 
 -	`Jin, F.`, Lai, C., and Lin, C.-H. (2025, October). Modeling AI-Assisted Writing: How Self-Regulated Learning Influences Writing Outcomes. *AECT Annual Convention*, Las Vegas, Nevada.
@@ -74,6 +83,10 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
 -	`Jin, F.`, Song, Z., Sun, L., and Lin, C.-H. (2024, April). The AI assistant in teacher online professional learning communities: What matters most and how? *AERA Annual Meeting*, Philadelphia, Pennsylvania.
 
 -	`Jin, F.`, Song, Z., Cheung, W. M., and Lin, C.-H. (2023, April). Affordances of Technology in Online Teacher Professional Learning Communities: A Systematic Review. *AERA Annual Meeting*, Chicago, Illinois.
+
+-	Wu, T., Chen, J., Lin, W., Zhan, J., Li, M., `Jin, F.`, Zhang, M., Kuang, K., & Wu, F. (2026). Tailoring Diagnostic Modeling to Individual Learners: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction. *ACL 2026*. [CCF-A类会议]
+
+- Song, Z., Qin, J., `Jin, F.`, Cheung, W. M., Lin, C.-H. (2026, April). Exploring teachers’ integration of generative AI: A case study of processes and influencing factors. AERA Annual Meeting, Los Angeles, California. 
 
 -	Sun, L., `Jin, F.`, Lin, C.-H., and Cheung, W. M. (2024, April). From clueless to confident: How ChatGPT can transform L2 academic writing. *AERA Annual Meeting*, Philadelphia, Pennsylvania.
 
