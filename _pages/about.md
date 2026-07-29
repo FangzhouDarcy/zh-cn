@@ -27,7 +27,7 @@ redirect_from:
 主持或参与多项科研项目。曾获香港特别行政区政府研究资助局新晋学者计划（JRFS）资助，全港所有学校所有学科仅30人入选，获百万港币资助。获资助项目为 Multimodal AI in Language Education: Usage, Model Optimization, and Experiments（项目编号：UGC/GEN/612）。此外，参与教育部《人工智能教育伦理：参考框架》《人工智能通识教育白皮书》等文件的编写，并参与推进教育部未来教师公益计划。
 
 研究成果具有较高的国际学术影响力。其中，一篇第一作者论文获美国权威科普媒体Scientific American（《科学美国人》）专题报道；共有4篇第一作者论文入选ESI高被引论文（Highly Cited Papers）。
-曾获香港大学校级奖学金HKU Foundation Postgraduate Fellowships、香港大学论文发表奖等多项荣誉。现担任多本SSCI一区国际期刊审稿人。
+曾获香港大学校级全额奖学金HKU Foundation Postgraduate Fellowships、香港大学论文发表奖等多项荣誉。现担任多本SSCI一区国际期刊审稿人。
 
 我始终关注技术如何拓展学习的可能性，期待与志同道合的研究者、教育实践者及潜在学生开展合作，共同探索未来教育的发展。欢迎写信开展合作：fzjin@hku.hk或fangzhoujin@zju.edu.cn
 
