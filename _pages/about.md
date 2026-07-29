@@ -68,6 +68,7 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
 <span class='anchor' id='-hylw'></span>
   
 # 🏛️ 会议论文
+
 - `Jin, F.`, Lai, C., Lin, C.-H. (2026, April). Profiles of postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *AERA Annual Meeting*, Los Angeles, California. 
 
 - `Jin, F.`, Deng, H., Yang, Z., Sun, Z., Lin, C.-H. (2026, April). Measuring teachers’ generative AI use: Scale development and validation. *AERA Annual Meeting*, Los Angeles, California. 
@@ -145,7 +146,6 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
  <span class='anchor' id='-ryjxyhd'></span> 
 # 🏆 荣誉奖项与活动
 
-### 研究生期间
 - *2025*, 香港大学学术出版优秀奖 [全院 1 名]
 - *2024*, 香港大学卓越博士新生奖 [学院提名 2 人]
 - *2024*, 香港大学研究生出版奖 [全院 5 名]
@@ -154,13 +154,6 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
 - *2023*, 香港大学教育学院学生代表 
 - *2022 – 2024*, 香港大学日新学院摄影队负责人 
 - *2022*, 香港筹款义工 
-
-###  本科期间
-- *2018*, 浙江省政府奖学金
-- *2018*, 全国大学生创业大赛省级铜奖
-- *2017*, 全国大学生文学作品大赛一等奖
-- *2016*, G20 峰会会场优秀志愿者
-
 
 <span class='anchor' id='-gzsx'></span>
 
