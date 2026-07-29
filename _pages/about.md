@@ -29,6 +29,8 @@ redirect_from:
 研究成果具有较高的国际学术影响力。其中，一篇第一作者论文获美国权威科普媒体Scientific American（《科学美国人》）专题报道；共有4篇第一作者论文入选ESI高被引论文（Highly Cited Papers）。
 曾获香港大学校级奖学金HKU Foundation Postgraduate Fellowships、香港大学论文发表奖等多项荣誉。现担任多本SSCI一区国际期刊审稿人。
 
+我始终关注技术如何拓展学习的可能性，期待与志同道合的研究者、教育实践者及潜在学生开展合作，共同探索未来教育的发展。欢迎写信开展合作：fzjin@hku.hk或者fangzhoujin@zju.edu.cn
+
 <span class='anchor' id='-qklw'></span>
 
 # 📝 期刊论文
