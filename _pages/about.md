@@ -110,40 +110,54 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
 
 <span class='anchor' id='-xm'></span>
 # 🧩 项目
-### 外部项目
+<ol>
+  <li>
+    <strong>赋权授能—衔接向上：人工智能支援中小学教师提升多元文化学生中文学习能力</strong>（参与）
+    <div>📅 <em>2022.9–2025.8</em></div>
+    <div>💰 资助金额：7,432,000 港币</div>
+    <div>🏛️ 资助来源：港府优质教育基金</div>
+    <div>👤 项目主持人：林金锡教授</div>
+  </li>
 
-1. **赋权授能—衔接向上：人工智能支援中小学教师提升多元文化学生中文学习能力**（参与）<br>
-   📅 *2022.9–2025.8*<br>
-   💰 资助金额：7,432,000 港币<br>
-   🏛️ 资助机构：港府优质教育基金<br>
-   👤 项目主持人：林金锡教授
+  <li>
+    <strong>Digital Storytelling: My Voice, My Vision, My City in COVID-19</strong>（共同主持）
+    <div>📅 <em>2022–2023</em></div>
+    <div>💰 资助金额：7,500 港币</div>
+    <div>🏛️ 资助来源：Hong Kong Hsin Chong–K. N. Godfrey Yeh Education Fund</div>
+    <div>👤 项目主持人：刘广祥博士</div>
+  </li>
 
-2. **Digital Storytelling: My Voice, My Vision, My City in COVID-19**（共同主持）<br>
-   📅 *2022–2023*<br>
-   💰 资助金额：7,500 港币<br>
-   🏛️ 资助机构：Hong Kong Hsin Chong–K. N. Godfrey Yeh Education Fund<br>
-   👤 项目主持人：刘广祥博士
+  <li>
+    <strong>基于人工智能的课堂教学交互分析关键技术研究</strong>（参与）
+    <div>📅 <em>2020–2023</em></div>
+    <div>💰 资助金额：500,000 人民币</div>
+    <div>🏛️ 资助来源：中国国家自然科学基金</div>
+    <div>👤 项目主持人：孙众教授；共同主持人：林金锡教授</div>
+  </li>
 
-3. **基于人工智能的课堂教学交互分析关键技术研究**（参与）<br>
-   📅 *2020–2023*<br>
-   💰 资助金额：500,000 人民币<br>
-   🏛️ 资助机构：中国国家自然科学基金<br>
-   👤 项目主持人：孙众教授；共同主持人：林金锡教授
+  <li>
+    <strong>全国教育科学规划项目青年项目“新时代义务教育阶段学生数智读写素养评价体系构建及应用研究”</strong>（参与）
+    <div>📅 <em>2025.10–至今</em></div>
+    <div>🏛️ 资助来源：教育部</div>
+    <div>👤 项目主持人：任睿教授</div>
+  </li>
 
-4. **全国教育科学规划项目青年项目“新时代义务教育阶段学生数智读写素养评价体系构建及应用研究”**（参与）<br>
-   📅 *2025.10–至今*<br>
-   🏛️ 资助机构：教育部<br>
-   👤 项目主持人：任睿教授
+  <li>
+    <strong>Multimodal AI in Language Education: Usage, Model Optimization, and Experiments</strong>（主持）
+    <div>📅 <em>2025–2028</em></div>
+    <div>💰 资助金额：约1,000,000 港币</div>
+    <div>🏛️ 资助来源：香港特别行政区政府研究资助局（Research Grants Council, Hong Kong SAR）</div>
+    <div>🔖 项目编号：UGC/GEN/612</div>
+  </li>
 
-5. **Multimodal AI in Language Education: Usage, Model Optimization, and Experiments**（主持）<br>
-   🏛️ 资助机构：香港特别行政区政府研究资助局
-   
-### 内部项目
-1. **科技和自主词汇学习**（兼职研究助理）<br>
-   📅 *2021* <br>
-   💰 资助金额：149,884 港币<br>
-   🏛️ 资助来源：香港大学基础研究种子基金<br>
-   👤 项目主持人：林金锡教授<br>
+  <li>
+    <strong>科技和自主词汇学习</strong>（兼职研究助理，内部项目）
+    <div>📅 <em>2021</em></div>
+    <div>💰 资助金额：149,884 港币</div>
+    <div>🏛️ 资助来源：香港大学基础研究种子基金</div>
+    <div>👤 项目主持人：林金锡教授</div>
+  </li>
+</ol>
 
 
  <span class='anchor' id='-ryjxyhd'></span> 
