@@ -24,7 +24,7 @@ redirect_from:
 研究方向主要包括技术辅助语言教育（Technology-enhanced Language Learning）、人工智能教育（AI in Education）等。
 截至目前，已发表期刊论文和国际会议论文20余篇。相关成果发表于Computers & Education、Computers in Human Behavior、Journal of Computer Assisted Learning等中科院一区TOP期刊，和ACL Main Conference、AERA Annual Meeting、AECT International Convention等国际顶级学术会议。
 
-主持或参与多项科研项目。曾获香港特别行政区政府研究资助局新晋学者计划（JRFS）资助，全港所有学校所有学科仅30人入选，获百万港币资助。获资助项目为 Multimodal AI in Language Education: Usage, Model Optimization, and Experiments（项目编号：UGC/GEN/612）。此外，还参与教育部《人工智能教育伦理参考框架》《人工智能通识教育白皮书》等文件的编写，并参与推进教育部未来教师公益计划。
+主持或参与多项科研项目。曾获香港特别行政区政府研究资助局新晋学者计划（JRFS）资助，全港所有学校所有学科仅30人入选，获百万港币资助。获资助项目为 Multimodal AI in Language Education: Usage, Model Optimization, and Experiments（项目编号：UGC/GEN/612）。此外，参与教育部《人工智能教育伦理参考框架》《人工智能通识教育白皮书》等文件的编写，并参与推进教育部未来教师公益计划。
 
 研究成果具有较高的国际学术影响力。其中，一篇第一作者论文获美国权威科普媒体Scientific American（《科学美国人》）专题报道；共有4篇第一作者论文入选ESI高被引论文（Highly Cited Papers）。
 曾获香港大学校级奖学金HKU Foundation Postgraduate Fellowships、香港大学论文发表奖等多项荣誉。现担任多本SSCI一区国际期刊审稿人。
