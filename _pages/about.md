@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我现任浙江大学教育学院&ldquo;新百人计划&rdquo;研究员、博士生导师。
+我现任浙江大学教育学院「新百人计划」研究员、博士生导师。
 
 我于伦敦大学学院（University College London）和香港大学（The University of Hong Kong）获得硕士学位（以一等学位毕业），获香港大学哲学博士（Ph.D.）学位。博士毕业后，曾于香港大学担任香港特别行政区政府资助的新晋学者（Junior Research Fellow Scheme, JRFS）。
 
