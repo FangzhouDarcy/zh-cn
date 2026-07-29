@@ -131,20 +131,20 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
    👤 项目主持人：孙众教授；共同主持人：林金锡教授
 
 4. **全国教育科学规划项目青年项目“新时代义务教育阶段学生数智读写素养评价体系构建及应用研究“**（参与）    
-   📅 *2025.10 – 至今*  
-   🏛️ 资助机构：教育部  
-   👤 项目主持人：任睿教授
+   📅 *2025.10 – 至今*<br>
+   🏛️ 资助机构：教育部<br>
+   👤 项目主持人：任睿教授<br>
 
-5. **Multimodal AI in Language Education: Usage, Model Optimization, and Experiments** （主持）     
-   🏛️ 资助机构：香港特别行政区政府研究资助局  
+5. **Multimodal AI in Language Education: Usage, Model Optimization, and Experiments** （主持）<br> 
+   🏛️ 资助机构：香港特别行政区政府研究资助局 <br>
 
    
 ### 内部项目
-1. **科技和自主词汇学习**（兼职研究助理）  
-   📅 *2021*  
-   💰 资助金额：149,884 港币  
-   🏛️ 资助来源：香港大学基础研究种子基金  
-   👤 项目主持人：林金锡教授
+1. **科技和自主词汇学习**（兼职研究助理）<br>
+   📅 *2021* <br>
+   💰 资助金额：149,884 港币<br>
+   🏛️ 资助来源：香港大学基础研究种子基金<br>
+   👤 项目主持人：林金锡教授<br>
 
 
  <span class='anchor' id='-ryjxyhd'></span> 
