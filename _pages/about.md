@@ -137,9 +137,8 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
    👤 项目主持人：任睿教授
 
 6. **Multimodal AI in Language Education: Usage, Model Optimization, and Experiments** （主持）
-
    🏛️ 资助机构：香港特别行政区政府研究资助局  
-   💰 资助金额：1,240,000 港币
+
    
 ### 内部项目
 1. **科技和自主词汇学习**（兼职研究助理）  
