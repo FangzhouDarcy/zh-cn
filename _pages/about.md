@@ -145,7 +145,6 @@ Assisted Learning, 40(3), 1-21 [中科院一区 TOP; JCR一区；IF: 5.4][[网�
 
   <li>
     <strong>Multimodal AI in Language Education: Usage, Model Optimization, and Experiments</strong>（主持）
-    <div>📅 <em>2025–2028</em></div>
     <div>💰 资助金额：约1,000,000 港币</div>
     <div>🏛️ 资助来源：香港特别行政区政府研究资助局（Research Grants Council, Hong Kong SAR）</div>
     <div>🔖 项目编号：UGC/GEN/612</div>
