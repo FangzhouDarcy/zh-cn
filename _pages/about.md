@@ -19,7 +19,7 @@ redirect_from:
 
 我现任浙江大学教育学院「新百人计划」研究员、博士生导师。
 
-我于伦敦大学学院（University College London）和香港大学（The University of Hong Kong）获得硕士学位（以一等学位毕业），获香港大学博士（Ph.D.）学位。博士毕业后，曾于香港大学担任香港特别行政区政府资助的新晋学者（Junior Research Fellow Scheme, JRFS）。
+我于伦敦大学学院（University College London）和香港大学（The University of Hong Kong）获得硕士学位（以一等学位毕业），于2025年获香港大学博士（Ph.D.）学位。博士毕业后，曾于香港大学担任香港特别行政区政府资助的新晋学者（Junior Research Fellow Scheme, JRFS）。
 
 研究方向主要包括技术辅助语言教育（Technology-enhanced Language Learning）、人工智能教育（AI in Education）等。
 截至目前，已发表期刊论文和国际会议论文20余篇。相关成果发表于*Computers & Education*、*Computers in Human Behavior*、*Journal of Computer Assisted Learning*等中科院一区TOP期刊，和ACL Main Conference、AERA Annual Meeting、AECT International Convention等国际顶级学术会议。
